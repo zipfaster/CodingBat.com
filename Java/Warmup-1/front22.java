@@ -1,7 +1,7 @@
 /*
 front22.java
 https://codingbat.com/prob/p183592
-
+ 
 Given a string, take the first 2 chars and 
 return the string with the 2 chars added at both the front and back, 
 so "kitten" yields"kikittenki". 
